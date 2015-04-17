@@ -2,6 +2,13 @@
 
 created by Jason Bengtson, MLIS, MA : Available under Attribution-NonCommercial-ShareAlike 3.0 Unported license********/
 /*************http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode***********************/
+#main {
+display:block;
+width: 1200px;
+margin-left:auto;
+margin-right:auto;
+  }
+
 #rightpanel
 {
 width:320px;
